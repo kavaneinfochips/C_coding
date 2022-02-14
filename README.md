@@ -1,2 +1,2 @@
 # C_coding
-Practice C code
+Project Set-B
